@@ -1,4 +1,4 @@
-# Machine-Learning
+
 ![ML Thumbnail](https://github.com/dhanush-github/Machine-Learning/assets/82599768/aa182ede-5ffe-448e-a084-b053e86507a5)
 
 # Machine Learning Algorithms Repository
